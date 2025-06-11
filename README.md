@@ -59,7 +59,7 @@ bash
 
 1
 python download_video.py
-O vídeo será salvo na pasta definida (G:/tiktoke/edit/ por padrão).
+O vídeo será salvo na pasta definida .
 ⚙️ Configurações Personalizáveis
 Você pode editar estas variáveis no topo do código:
 
@@ -70,7 +70,7 @@ python
 2
 3
 url = "https://youtu.be/exemplo"          # URL do vídeo
-output_path = 'G:/tiktoke/edit/'          # Pasta de destino
+output_path = 'pasta para salva os videos # Pasta de destino
 video_res = '1080p'                       # Resolução desejada
 🤝 Contribuição
 Contribuições são sempre bem-vindas!
