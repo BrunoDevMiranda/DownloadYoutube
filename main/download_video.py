@@ -4,8 +4,8 @@ import os
 import subprocess
 import re
 
-url = "https://youtu.be/KD0e0ihWHE0?si=BCgKbziC8S2oCOC8"
-output_path = 'H:/tiktoke/edit/'
+url = "https://youtu.be/KD0e0ihWHE0?si=BCgKbziC8S2oCOC8" #COLE AQUI o link <<
+output_path = 'H:/videos/edit/' #Escolha a pasta onde vaiser salvo
 video_res = '1080p'
 
 # Pasta temporária para salvar arquivos separados
